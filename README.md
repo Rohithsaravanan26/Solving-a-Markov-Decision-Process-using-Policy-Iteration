@@ -304,11 +304,15 @@ env.close()
 
 <img width="867" height="316" alt="image" src="https://github.com/user-attachments/assets/f1117aeb-1702-4c56-93bc-f1c35e914168" />
 
+<img width="1246" height="401" alt="image" src="https://github.com/user-attachments/assets/c7a4adbf-dda0-4413-9f76-d1f490bd8ba5" />
+
 <img width="740" height="357" alt="image" src="https://github.com/user-attachments/assets/a620b3e9-9888-4c37-87d7-97bec26635b7" />
 
 ### For Gamma = 0.90:
 
 <img width="818" height="318" alt="image" src="https://github.com/user-attachments/assets/3da579c6-823c-4010-aa13-7b4d263a2988" />
+
+<img width="1127" height="400" alt="image" src="https://github.com/user-attachments/assets/6cdd30e1-5981-4689-92fb-751292633428" />
 
 <img width="863" height="360" alt="image" src="https://github.com/user-attachments/assets/eb20df3f-b5c9-45fd-b37e-31a6eadd9a5d" />
 
